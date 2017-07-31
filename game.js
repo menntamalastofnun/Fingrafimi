@@ -284,7 +284,7 @@ function preload()
     game.load.audio('instructionFJ',   'Assets/Sounds/Instructions/instructionFJ.mp3');
     game.load.audio('instructionDK',    'Assets/Sounds/Instructions/DK_instruction.mp3');
     game.load.audio('instructionSL',    'Assets/Sounds/Instructions/SL_instruction.mp3');
-    game.load.audio('instructionAAE',   'Assets/Sounds/Instructions/AÆ_instruction.mp3');
+    game.load.audio('instructionAAE',   'Assets/Sounds/Instructions/AAE_instruction.mp3');
     game.load.audio('instructionALL1',  'Assets/Sounds/Instructions/Allir1_instruction.mp3');
     game.load.audio('instructionALL2',  'Assets/Sounds/Instructions/Allir2_instruction.mp3');
     game.load.audio('instructionEH',    'Assets/Sounds/Instructions/EH_instruction.mp3');
